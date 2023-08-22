@@ -1,0 +1,9 @@
+Package: com.nice2cu1.qmodify
+Name: QQModify
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Modify of QQ
+Maintainer: nice2cu1
+Author: nice2cu1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
